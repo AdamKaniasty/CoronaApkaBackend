@@ -1,4 +1,4 @@
 # CoronaApkaBackend
-Script, written in Python, which scrapes webpage, analyze data and upload it to firebase database.
-Main code written in React can be found here:
-Code description can be found in App.ipynb and upload.ipynb
+Algorytm pobierający dane z strony internetowej, analizujący i wysyłający je na baze danych Firebase
+Główny opis projektu jak i kod aplikacji można znaleźć tu:
+Opisy kodu można znależć w App.ipynb oraz upload.ipynb
